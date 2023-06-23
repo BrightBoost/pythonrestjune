@@ -1,0 +1,27 @@
+[
+    {
+        "name": "KPN",
+        "address": [{
+            "city": "Apeldoorn",
+            "street": "Fauststraat 1",
+            "zipcode": "1234AB",
+            "phone_numbers": {
+                "phone1": "050-1234567",
+                "phone2": "050-2345678"
+            },
+            "list_phone_nrs": ["123", "123", "123"]
+        }]
+    },
+    {
+        "name": "Vijfhart",
+        "address": {
+            "city": "Nieuwegein",
+            "street": "Kerkstraat 7",
+            "zipcode": "1234CD"
+        },
+        "phone_numbers": {
+            "phone1": "030-1234567",
+            "phone2": "030-2345678"
+        }
+    }
+]
