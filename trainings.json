@@ -1,0 +1,16 @@
+[
+    {
+        "name": "consuming REST APIs with Python",
+        "maxParticipants": 25,
+        "trainer": "maaike",
+        "educator": {
+            "name": "Vijfhart"
+        }
+    },
+    {
+        "name": "learning django",
+        "maxParticipants": 25,
+        "trainer": "alex"
+    }
+]
+
