@@ -1,0 +1,34 @@
+[
+    {
+        "name": "bobbie",
+        "job": "software developer",
+        "age": 23,
+        "knowsPython": true,
+        "hobbies": [
+            "jigsaw puzzles",
+            "reading",
+            "studying"
+        ],
+        "address": {
+            "streetname": "some street",
+            "house_number": 13, 
+            "zipcode": "1234ab"
+        }
+    },
+    {
+        "name": "harry",
+        "job": "software developer",
+        "age": 23,
+        "knowsPython": true,
+        "hobbies": [
+            "jigsaw puzzles",
+            "reading",
+            "studying"
+        ],
+        "address": {
+            "streetname": "some street",
+            "house_number": 13,
+            "zipcode": "1234ab"
+        }
+    }
+]
