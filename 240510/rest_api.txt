@@ -1,0 +1,17 @@
+api = connector (for example to data)
+
+REST = REpresentational State Transfer
+
+- client-server architecture
+- statelessness = api itself doesn't hold state
+- cacheability = responses have the property of being either cacheable or non-cacheable
+- uniformity - similar url's for similar calls
+    - /users GET - gets all users
+    - /users/1 GET - gets user with id 1
+    - /users POST - add a new user
+    - /users/1 PUT - update an existing user
+    - /users/1 DELETE - delete a user
+
+    www.example.com/api/users GET - get me all the users
+    www.kpn.com/api/products GET - get me all the products
+- responses are typically in JSON (data format)  

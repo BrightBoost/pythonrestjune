@@ -1,0 +1,4 @@
+- name
+- role / ambitions
+- hobbies / interests
+- what do you hope to learn in today's session?

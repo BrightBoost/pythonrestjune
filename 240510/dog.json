@@ -1,0 +1,25 @@
+{
+    "name": "yuki",
+    "age": 3,
+    "breed": "labradoodle",
+    "happy": true,
+    "hobbies": ["swim", "play with ball", "cuddle"],
+    "owners": [{
+        "name": "john",
+        "hobbies": ["special beers", "walking yuki"]
+    },
+    {
+        "name": "john's wife",
+        "hobbies": ["shopping", "walking yuki"]
+    },
+    {
+        "name": "john's daughter 1",
+        "hobbies": ["soccer", "walking yuki"]
+    },
+    {
+        "name": "john's daughter 2",
+        "hobbies": ["hockey", "walking yuki"]
+    }
+
+]
+}

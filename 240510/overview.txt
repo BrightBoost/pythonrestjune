@@ -1,4 +1,5 @@
 - APIs - REST APIs
+- JSON
 - What python library to use for calling APIs
 - GET requests
 - POST
